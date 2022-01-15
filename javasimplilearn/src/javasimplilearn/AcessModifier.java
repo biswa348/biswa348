@@ -1,5 +1,12 @@
 package javasimplilearn;
 
-public class AccessModifier {
+ class AcessModifier {
+	void display()
+	{
+		System.out.println("hello");
+		
+	}
+	
 
 }
+
