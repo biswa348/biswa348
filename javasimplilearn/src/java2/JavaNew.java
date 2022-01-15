@@ -1,10 +1,10 @@
 package java2;
 import javasimplilearn.*;
 class JavaNew {
-	public static void main(string args[])
+	public static void main(String args[])
 	{
-	AcessModifier am=new AcessModifer();
+	AcessModifier a=new AcessModifer();
 	
-am.display();
+  a.display();
 	}
 }

@@ -1,6 +1,6 @@
 package package1;
 
-public class Priclass {
+public class PriClass {
 
 private void display() 
 	    { 
@@ -12,7 +12,7 @@ private void display()
 	{ 
 	public static void main(String args[]) 
 	    { 
-	        priclass obj = new priclass(); 
+	        PriClass obj = new PriClass(); 
 	       
 	         
 	        obj.display(); 
